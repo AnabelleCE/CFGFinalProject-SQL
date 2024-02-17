@@ -1,5 +1,5 @@
 Introduction:
-As part of the 8 week Code First Girls Data and SQL course, participants must complete a final project. Participants are to cover several concepts introduced in class when completing their SQL code, but are free to select their project topic.
+As part of the 8 week Code First Girls Data and SQL course, participants must complete a final project. Participants are to cover several concepts introduced in class when completing their SQL code, but are free to select their project topic. This project was awarded "Highly Commended Candidate" status.
 
 Check out the course options at CFG: https://codefirstgirls.com/courses/
 
